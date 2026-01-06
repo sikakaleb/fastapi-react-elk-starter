@@ -1,0 +1,14 @@
+# Logstash Configuration File
+# https://www.elastic.co/guide/en/logstash/current/configuration-file-structure.html
+
+http.host: "0.0.0.0"
+xpack.monitoring.elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+
+# Pipeline settings
+pipeline.workers: 2
+pipeline.batch.size: 125
+pipeline.batch.delay: 50
+
+# Logging
+log.level: info
+path.logs: /usr/share/logstash/logs

@@ -1,0 +1,19 @@
+name: FastAPI React ELK Starter Template
+
+description: Fullstack monorepo starter kit with FastAPI, React, PostgreSQL, and ELK Stack
+
+topics:
+  - fastapi
+  - react
+  - typescript
+  - postgresql
+  - elasticsearch
+  - logstash
+  - kibana
+  - docker
+  - monorepo
+  - fullstack
+  - starter-kit
+  - boilerplate
+
+default-branch: main
