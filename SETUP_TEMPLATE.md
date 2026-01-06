@@ -1,16 +1,3 @@
-# Configuration du Template GitHub
-
-## Activer le template sur GitHub
-
-Pour que ce repository soit utilisable comme template GitHub :
-
-1. Allez sur https://github.com/sikakaleb/fastapi-react-elk-starter
-2. Cliquez sur **Settings** (en haut à droite du repository)
-3. Faites défiler jusqu'à la section **Template repository**
-4. Cochez la case **Template repository**
-5. Cliquez sur **Save**
-
-Une fois activé, un bouton **Use this template** apparaîtra sur la page principale du repository, permettant aux utilisateurs de créer un nouveau repository depuis ce template.
 
 ## Utilisation du template
 
